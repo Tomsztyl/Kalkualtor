@@ -1,0 +1,12 @@
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\bin\Debug\Kalkualtor.exe.config
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\bin\Debug\Kalkualtor.exe
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\bin\Debug\Kalkualtor.pdb
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.csprojAssemblyReference.cache
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.KalkulatorbyTomasz.resources
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.Properties.Resources.resources
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.csproj.GenerateResource.cache
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.exe
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.pdb
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.Pomoc.resources
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.Wyszukiwarka.resources
+C:\Users\Tomsztyl\OneDrive\VisualStudioProjekt\Kalkualtor\Kalkualtor\obj\Debug\Kalkualtor.CircleandCross.resources
